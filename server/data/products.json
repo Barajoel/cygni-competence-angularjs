@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Banana",
+        "category": "Fruit",
+        "description": "Oblong and yellow with lots of energy.",
+        "price": 40
+    },
+    {
+        "id": "2",
+        "name": "Tomato",
+        "category": "Veg",
+        "description": "Round and red with a green twig at the top.",
+        "price": 25
+    },
+    {
+        "id": "3",
+        "name": "Pineapple",
+        "category": "Fruit",
+        "description": "Big with sweet yellow flesh.",
+        "price": 65
+    },
+    {
+        "id": "4",
+        "name": "Strawberry",
+        "category": "Berry",
+        "description": "Red delicious with a small green twig at the top.",
+        "price": 10
+    },
+    {
+        "id": "5",
+        "name": "Swedish Strawberry",
+        "category": "Berry",
+        "description": "Red delicious but imposible to buy at the moment.",
+        "price": 100
+    }
+]

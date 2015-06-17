@@ -1,0 +1,15 @@
+{
+  "name": "shopping-cart-service",
+  "version": "0.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo Wentzel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.8.7",
+    "sugar": ">= 0.0.0",
+    "body-parser": "~1.8.1"
+  }
+}
